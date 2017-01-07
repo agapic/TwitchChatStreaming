@@ -1,6 +1,7 @@
 # TwitchChatStreaming
 
-Provides a leaderboard of the top 50 words and top 50 active channels on Twitch.tv. The data is stored in redis
+Provides a leaderboard of the top 50 words and top 50 active channels on Twitch.tv. The data is persisted in memory using Redis, and the results can be viewed over a web application built with Node/React.
+
 ### TODO: create a script to automate the instructions below.
 Quick bootstrapping to get running:
 
