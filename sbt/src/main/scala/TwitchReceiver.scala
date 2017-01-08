@@ -125,8 +125,7 @@ class TwitchReceiver(host: String, port: Int)
   }
 }
  
-/** Illustrates using a custom receiver to listen for Apache logs on port 7777
- *  and keep track of the top URL's in the past 5 minutes.
+/** Illustrates using a custom receiver to listen for Twitch.tv chat messages
  */
 object TwitchReceiver {
   
