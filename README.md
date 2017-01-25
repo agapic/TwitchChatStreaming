@@ -4,7 +4,7 @@ Uses **Apache Spark Streaming** to stream Twitch.tv chat messages real-time and 
 
 More to come soon.
 
-Here's a demo of the web app. While the GIF is custom made, the screenshots were taken immediately after the previous one.
+#### Here's a demo of the web app. While the GIF is custom made, the screenshots were taken immediately after the previous one.
 ![img](https://github.com/agapic/TwitchChatStreaming/blob/master/README_GIF.gif)
 ### TODO: create a script to automate the instructions below.
 Quick bootstrapping to get running:
