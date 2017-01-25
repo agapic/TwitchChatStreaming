@@ -4,6 +4,8 @@ Uses **Apache Spark Streaming** to stream Twitch.tv chat messages real-time and 
 
 More to come soon.
 
+Here's a demo of the web app:
+![img](https://github.com/agapic/TwitchChatStreaming/blob/master/README_GIF.gif)
 ### TODO: create a script to automate the instructions below.
 Quick bootstrapping to get running:
 
