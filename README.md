@@ -1,4 +1,5 @@
 # TwitchChatStats
+## Not maintained anymore. See https://www.github.com/agapic/Twitch-Streamer
 
 Uses **Apache Spark Streaming** to stream Twitch.tv chat messages real-time and transforms the data into various leaderboards; currently supports the top 50 words and top 50 active channels on Twitch.tv. The data is persisted in memory using Redis, and the results can be viewed over a web application built with Node/React.
 
@@ -19,3 +20,5 @@ Quick bootstrapping to get running:
 7. In the `web` directory, run `npm install` followed by `npm start`.
 
 8. View the results at `http://localhost:3002`!
+
+
